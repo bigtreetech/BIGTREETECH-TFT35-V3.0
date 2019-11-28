@@ -1,0 +1,1 @@
+TFT35 V3.0 is a medium size, dual-mode, ultra-clear 3D printer display and it is designed by Bigtree Technology co.,LTD. It is an excellent replacement for the standard 12864 LCD displays.
